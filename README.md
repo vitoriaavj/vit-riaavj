@@ -7,6 +7,7 @@ Olá! Me chamo Vitória e sou de Aracaju, SE.
 Atualmente, sou estudante de Engenharia de Software, sempre em busca de novos desafios. Tenho um interesse especial em análise de dados e na construção de soluções eficientes. Aqui no GitHub, você encontrará os projetos que venho desenvolvendo na minha jornada de aprendizado.
 
 Vamos nos conectar!
+<a href="https://www.linkedin.com/in/vitória-silva-8ba7892a2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 [LinkedIn](https://www.linkedin.com/in/vitória-silva-8ba7892a2)
 
 ---
